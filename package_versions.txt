@@ -694,7 +694,7 @@ xcb-util-renderutil                                                           0.
 xcb-util-wm                                                                   0.4.2-2                                 alpm                           
 xclip                                                                         0.13-6                                  alpm                           
 xcursor-themes                                                                1.0.7-2                                 alpm                           
-xdg-desktop-portal                                                            1.20.4-1                                alpm                           
+xdg-desktop-portal                                                            1.22.0-1                                alpm                           
 xdg-desktop-portal-gtk                                                        1.15.3-1                                alpm                           
 xdg-utils                                                                     1.2.1-2                                 alpm                           
 xdotool                                                                       4.20260303.1-1                          alpm                           
